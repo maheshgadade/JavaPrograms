@@ -22,7 +22,7 @@ public class RemoveDuplicatesFromList {
 				list2.add(intr1);
 			}
 		}
-		System.out.println(list2);
+		System.out.println("Without Duplicates:"+list2);
 	}
 
 }
